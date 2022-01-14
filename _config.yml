@@ -30,7 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  seii
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: poole/lanyon
 plugins:
   - jekyll-feed
 
