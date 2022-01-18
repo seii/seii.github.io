@@ -110,7 +110,7 @@ p {
 }
 
 strong {
-  color: #303030;
+  color: rgba(255,255,255,.5);
 }
 
 
@@ -118,6 +118,10 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+::marker {
+  color: #ff7c11;
 }
 
 dt {
@@ -139,7 +143,7 @@ hr {
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: rgba(255,255,255,.5);
   text-transform: uppercase;
 }
 abbr[title] {
@@ -248,7 +252,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #f9f9f9;
+  background-color: rgba(255,255,255,.2);
 }
 
 
