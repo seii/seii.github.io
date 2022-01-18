@@ -1,0 +1,68 @@
+/* lanyon.css overrides */
+
+h1, h2, h3, h4, h5, h6 {
+   color: #ff7c11;
+}
+
+.masthead-title a {
+  color: #ff7c11;
+}
+
+.sidebar-toggle {
+   background-color: rgba(80,80,80,.3);
+}
+
+.sidebar-toggle::before {
+  background: url("data:image/svg+xml,%3Csvg viewBox='0 0 16 16' fill='%23ff7c11' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' d='M2.5 11.5A.5.5 0 013 11h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 7h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5zm0-4A.5.5 0 013 3h10a.5.5 0 010 1H3a.5.5 0 01-.5-.5z' clip-rule='evenodd'/%3E%3C/svg%3E") no-repeat;
+}
+
+.page-title,
+.post-title,
+.post-title a {
+  color: #ff7c11;
+}
+
+.related {
+  border-top: 1px solid #fff;
+}
+
+/* poole.css overrides */
+
+body {
+  color: #fff;
+  background-color: #000;
+}
+
+a {
+  color: #ff4500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff7c11;
+}
+
+strong {
+  color: rgba(255,255,255,.5);
+}
+
+::marker {
+  color: #ff7c11;
+}
+
+abbr {
+  color: rgba(255,255,255,.5);
+}
+
+code {
+  color: #000;
+  background-color: rgba(255,124,17,.7);
+}
+
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: rgba(255,255,255,.2);
+}
+
+.masthead-title a {
+  color: #ff7c11;
+}
