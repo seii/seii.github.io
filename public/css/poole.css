@@ -132,8 +132,10 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
+  /*border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;*/
+  border-top: 1px solid #ff7c11;
+  border-bottom: 1px solid #ff7c11;
 }
 
 abbr {
