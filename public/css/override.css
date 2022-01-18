@@ -59,8 +59,9 @@ code {
 }
 
 hr {
-   border-top: 1px solid #ff7c11;
-   border-bottom: 1px solid #ff7c11;
+  border: 0;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #fff;
 }
 
 tbody tr:nth-child(odd) td,
