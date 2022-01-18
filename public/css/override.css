@@ -58,6 +58,11 @@ code {
   background-color: rgba(255,124,17,.7);
 }
 
+hr {
+   border-top: 1px solid #ff7c11;
+   border-bottom: 1px solid #ff7c11;
+}
+
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: rgba(255,255,255,.2);
