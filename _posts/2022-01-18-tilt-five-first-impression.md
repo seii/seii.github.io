@@ -10,6 +10,7 @@ More than 7 years ago, I backed a product called "CastAR" via Kickstarter. The p
 Yesterday, I finally got my glasses in the mail.
 
 ### Packaging
+___
 
 [![Cardboard box decorated in Tilt Five graphics, sitting on carpet](/public/img/2022-01-18/T5-box-closed.png#thumbnail "T5's shipping box is decorated in graphics")](/public/img/2022-01-18/T5-box-closed.png)
 
@@ -25,22 +26,26 @@ I'm assuming that my LE kit was "pretty standard", but they still found a way to
 One thing worth noting: the wand controller does _not_ come with batteries. It's a small detail, and probably has to do with how shipping worked and such, but you'll want a pair of "AA" size batteries on hand before you start trying to play anything.
 
 ### Setup
+___
 
 As far as setup goes, the paper instructions you can see in my pictures are a bit like "errata". Nothing major, just explaining how to use the USB-A to USB-C converter and a few other details. The rest of the instructions are actually visible through Tilt Five's website, but as the official release of their SDK is a few weeks away I'm respecting their request to not share the direct URL. The device really is plug-and-play once the drivers are installed. The USB cable connects to the glasses snugly due to a small tab built into the cable and its corresponding small slot in the glasses frames. It can feel a little limiting to only have 5 feet or so of cord to play with, but as T5 ships more devices there will certainly be more knowledge around what USB-C cables can be successfully used. I personally tried a random 10-foot USB-C cord I had lying around, and while the device is detected as connected via USB the T5 Control Panel software helpfully told me that the USB port wasn't supported. (I wasn't using a repeater or anything, so I expected something like that to happen.)
 
 ### Glasses
+___
 
 [![Tilt Five glasses laying upside down on carpet, attached to a USB cable](/public/img/2022-01-18/T5-glasses-dimmed.png#thumbnail "The glasses switch to a dimmed state when not looking at the board")](/public/img/2022-01-18/T5-glasses-dimmed.png)
 
 Once the glasses were connected and recognized, I put them on. I already wear glasses, but since I'm near-sighted and planned to look at a board close to me, I didn't bother using my prescription pair. (For argument's sake, I _did_ try wearing both my prescription glasses and the T5 glasses. It doesn't work comfortably because the top of my prescription pair collide with the top of the T5 glasses, but you could do it if you needed to.) Compared to the weight of my prescription glasses, the T5 unit is only barely noticeable. The arms on it are surprisingly long, and while they are very firm near the hinge (likely due to electronics), they are quite flexible towards the ends. This has to be intentional, as the arc both arms describe wouldn't make it onto most heads unless you could bend the ends to put them on. Despite needing to use leverage to put them on my head, don't get the wrong idea - for me, the pressure they apply to my head seemed negligible. The upside is that you can look straight down and they remain glued to your face.
 
 ### Game Board
+___
 
 With the glasses ready to go, I unfolded the gameboard. It is retroreflective on top, and has dots along the side for tracking purposes. The backing is very much like a standard board game - "Pictionary" is what came to mind, if you've ever played that one. The material itself seems decently rugged, and slightly rough to the touch. Based on what I've seen, you need to be careful when folding and unfolding the board because the material can pull away from its backing if you stress it the wrong way. This is common to board games with folding boards, so it's likely that differently made third-party boards will be manufactured and sold if T5 succeeds.
 
 [![Tilt Five game board unfolded, with reflective side up and tracking dots visible around the edges](/public/img/2022-01-18/T5-board-unfolded.png#thumbnail "Just lay it all out there")](/public/img/2022-01-18/T5-board-unfolded.png)
 
 ### Software
+___
 
 It was time to boot up some software! The official SDK won't released for at least a few more weeks, so the beta SDK is in use still. It provides three demos: a wand demo, an air traffice controller demo, and a marbles demo that I think originated back in the old CastAR days. I also downloaded a demo called [DX266](https://www.tiltfive.com/games/recube-dx266), which I found out about originally through T5's [official Discord](https://discord.gg/kdz5mGB). (Credit to spacedog for this demo, it's one of the only two free offerings available at launch!)
 
@@ -49,6 +54,7 @@ The wand demo is fairly vanilla, just a model of the wand on a grid which you ca
 Scenery in the marbles demo shows off a few more unexpected things, too. When you fall off an edge, generally it puts your marble back onto the board pretty quickly. Sometimes you just fall for what feels like forever, though. It's only a second or two of real-time difference, but when you are looking "down" - even looking down at an angle instead of straight down - you really "feel" that you're skydiving and start to worry about what happens if you _don't_ reset before you meet the ground slowly rising to meet you! Further, your head position actually matters. Those hot air balloons that startled me before? Next time, I just stood up and looked over them! When my wife wanted to know what a particular piece of text said, she really did duck down and look _under_ some of the scenery so she could read it.
 
 ### Perspective
+___
 
 While playing with my marble, I wanted to see how close I could get to the board and what happened when I got "too close". The answer is that you can actually get to within a few inches of the board, measured top-down, before the glasses shut off the projectors. Using the wand controller as a measuring stick you can basically get your nose to the bottom of the "stick" portion of the wand, which is about halfway down. Even that close up, however, you really don't lose resolution or focus. The board does display a slight speckle when you examine it very closely. It's similar to... oh, I know! If you've ever tried getting close to a CRT TV so you can examine the RGB dots, you also generally notice a fine layer of dust collected due to the static electricity. Up close, the board does _not_ show any pixels but it does feel like the fine layer of dust is present. That's probably either the light scattering in ways I can detect or something about the particular retroreflective mix that T5 went with, I'm not sure which.
 
@@ -61,22 +67,26 @@ Oh yes, and the board really can't display "beyond" its edges, but it can appear
 The XE kit is going to have an ability to extend the gameboard vertically, so this bears watching when XE kits are shipped and someone besides me can check this out!
 
 ### Sound
+___
 
 Since DX266 covers sound a bit more than the standard demos do, it's worth talking about sound as a subject. The T5 glasses are excellent at providing ambience. Until you are sitting basically next to someone, you can't hear the audio playing from their headset. However, as a player with the headset on I could hear everything perfectly. It wasn't too soft, it wasn't too loud, I just heard it and it seemed the right volume. I honestly never thought to investigate whether I could change the volume, which is something I do constantly when I'm wearing a PC gaming headset. It's very possible that you could play with a T5 unit in a medium-sized room and have no one be aware of what you're doing (via sound - of course they would see lights!).
 
 ### Lighting
+___
 
 Across all demos, I intentionally played in a standard "family room" setup. No lights were directly overhead, but the room used standard indoor lighting and the TV was on as well. As a bystander I could occasionally catch reflected images of lights or the TV off the gameboard, but when wearing the headset I never saw any of that. A lower-lit room might improve the contrast of the game images (and therefore make the graphics seem "more high quality"), but I never felt like I needed to go turn some lights off to see anything I was investigating. Honestly, the instinct to lean in when something wasn't quite legible was far stronger than any thoughts of lighting!
 
 The glasses do enter a "dimmed" mode when the board can't be tracked. My experience was that you need to be oriented roughly 90 degrees from the board laterally before the glasses would do this. Simply looking up from the board or glancing at the player next to you wouldn't affect the display. My wife supplied that the glasses are a bit hard to look at from outside when at full brightness, but in their dimmed state they're easily tolerable and it just looks a little weird that I have lights where my eyes normally are.
 
 ### Controller
+___
 
 The wand controller is very lightweight, and somehow feels like the long black "stick" is much sturdier than the white "body" of the controller. This is probably actually true, as the stick houses electronics and lighting while the body is mostly empty unless you have the batteries inserted. Button travel is neither bad nor good, and targets more of a soft push rather than a "click" feel. There are 8 usable buttons as far as I can tell, counting the thumbstick (which can be clicked), two buttons just under the thumbstick, a 4-button "ABXY" setup familiar to gamers, and the trigger on the underside. The ABXY buttons are clearly meant to be used if the wand is turned sideways, as they rested near the heel of my hand when I held the wand with my forefinger on the trigger. Turning the controller sideways, I was impressed to find that it's not terrible when used that way. I'm sure T5 would prefer that everyone take advantage of the ability to track and move objects instead, but it's good to know that you can just use the wand as a gamepad if you wish.
 
 Also, let me just call this one right now: people are going to use the wands as lightsabers, and they are going to break them doing it. :)
 
 ### Wrap Up
+___
 
 Let's return to my PlayStation 2 analogy. For those of you into technical specifications, my earlier comparison may not make much sense. For example, that console had a native output of 640x480 while the T5 is using 720p projectors. However, I'm really struggling to describe the experience any other way. It is notoriously difficult to capture through-the-lens footage with this device because no capture device is really quite like your own eyes. (I didn't even try to do a capture, personally, as all I have is a cellphone instead of anything more complex.) If you are looking for the latest million-pixel beyond-human-comprehension resolution, this headset isn't targeted at you and it's likely you'll be disappointed. If you want to sit around a table and play some games or view some cool stuff, however, the T5 device is very capable and tracks admirably. There are few pieces to lose, it re-uses well-known form factors for technology (glasses and handheld controllers), and all it asks you do differently compared to any board game is lay out a game board which is somewhat large.
 
