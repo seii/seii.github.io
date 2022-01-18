@@ -71,4 +71,6 @@ tbody tr:nth-child(odd) th {
 img[src*="#thumbnail"] {
    width:240px;
    height:180px;
+   margin-right: auto;
+   margin-left: auto;
 }
