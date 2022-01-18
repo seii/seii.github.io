@@ -66,3 +66,9 @@ tbody tr:nth-child(odd) th {
 .masthead-title a {
   color: #ff7c11;
 }
+
+/* Custom CSS */
+img[src*="#thumbnail"] {
+   width:240px;
+   height:180px;
+}
