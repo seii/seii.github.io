@@ -31,9 +31,9 @@ Tilt5's predecessor, the erstwhile CastAR, would often show off various setups w
 
 See, the Tilt5 projector doesn't focus its beam on some small area and try to optimize a relatively small dimension. Instead, it projects the beam that it projects, trusting to its low brightness and the unique properties of retroreflectors to "bounce" the image directly back to your eyes. It turns out that if you expand the footprint of the retroreflective material, your eyes will pick up an even wider field in any dimension the material is present in. Want to see more holograms rising out of your play space? Include vertical material. Want to have larger peripheral environments even when the action stays "within the board"? Include more horizontal material.
 
-To this effect, DMS has created the ["ARCade setup"](https://www.dragonmagicstudio.com/index.php/store/product/arcade-setup-sheet-le-version). You take some extra retroreflective material, attach (most of) a T5 boar pattern to it, and hang it from a PVC contraption that you build yourself. Voila! Instant green screen!
+To this effect, DMS has created the ["ARCade setup"](https://www.dragonmagicstudio.com/index.php/store/product/arcade-setup-sheet-le-version). You take some extra retroreflective material, attach (most of) a T5 board pattern to it, and hang it from a PVC contraption that you build yourself. Voila! Instant green screen!
 
-The one downside, perhaps, is that there's no instructions currenly on how to build this frame. As one of the first to receive one, I wanted to fix that. PVC isn't terribly hard to work with, but I know that not everyone has done so in their past.
+The one downside, perhaps, is that there's no instructions currently on how to build this frame. As one of the first to receive an ARCade setup, I wanted to fix that. PVC isn't terribly hard to work with, but I know that not everyone has done so in their past.
 
 <a name="materials"></a>
 # Materials
