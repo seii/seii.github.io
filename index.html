@@ -14,8 +14,13 @@ title: Jiyuu-Ni Kangae
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    <!--{{ post.content }}-->
+    <br />
+    <span>Excerpt:</span>
     {{ post.excerpt }}
+    
+    <a href="{{ post.url | absolute_url }}">
+      -Read More-
+    </a>
   </div>
   {% endfor %}
 </div>
