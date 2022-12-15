@@ -22,6 +22,7 @@ I've already talked about [Tilt5](https://www.tiltfive.com/) in a previous post.
 Well, they're not going to stop you - far from it. However, they don't have the time and resources to cater to every random idea that comes across the desk, either. For that, T5 turns to its community. One such member, Dragon Magic Studios, happened to live in China and have a strong interest in materials and resources. Upon testing the Tilt5 device and its board, he found that he really wanted... something better. Specifically, the board had visible lines, wasn't easy to clean, and was relatively fragile for something that's intended to pick up and move around from table to table.
 
 <more />
+
 Luckily for everyone, he did something about this.
 
 The result is [a store](https://www.dragonmagicstudio.com/index.php/store) entirely filled with products that are inspired by sessions with the Tilt5 unit while being completely separate from the Tilt5 team. Bravo!
