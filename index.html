@@ -4,23 +4,27 @@ title: Jiyuu-Ni Kangae
 ---
 
 <div class="posts">
+  <ul>
   {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    <li>
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ post.url | absolute_url }}">
+            {{ post.title }}
+          </a>
+        </h1>
 
-    <span class="post-date">{{ post.date | date_to_long_string }}</span>
+        <span class="post-date">{{ post.date | date_to_long_string }}</span>
 
-    {% comment %}
-      {{ post.content }}
-      {{ post.excerpt }}
-    {% endcomment %}
-    
-  </div>
+        {% comment %}
+          {{ post.content }}
+          {{ post.excerpt }}
+        {% endcomment %}
+
+      </div>
+    </li>
   {% endfor %}
+  </ul>
 </div>
 
 <div class="pagination">
