@@ -80,3 +80,9 @@ img[src*="#thumbnail"] {
    margin-right: auto;
    margin-left: auto;
 }
+
+.posts ul li::marker {
+   color:orangered;
+   font-size: 1.5rem;
+   content: "\2604";
+}
