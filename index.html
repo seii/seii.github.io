@@ -17,7 +17,11 @@ title: Jiyuu-Ni Kangae
         <span class="post-date">{{ post.date | date_to_long_string }}</span>
 		{% assign excerptPart1 = post.excerpt | split: "<!-- excerpt-start -->" %}
 		{% assign excerptPart2 = excerptPart1[1] | split: "<!-- excerpt-end -->" %}
+		
 		{{ excerptPart2[0] }}
+		<div class="continue-link">
+		  <a href="{{ post.url | absolute_url }}">(Continue Reading)</a>
+		</div>
 
         {% comment %}
           {{ post.content }}

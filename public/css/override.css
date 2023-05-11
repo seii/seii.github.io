@@ -86,3 +86,11 @@ img[src*="#thumbnail"] {
    font-size: 1.5rem;
    content: "\2604";
 }
+
+.continue-link div {
+   text-align: center;
+}
+
+.continue-link div a {
+   color: #ff7c11;
+}
