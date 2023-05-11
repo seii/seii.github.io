@@ -22,6 +22,15 @@ toc_ordered: true
 toc_item_class: 'toc-section'
 toc_submenu_class: 'toc-subsection'
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      toc: false
+
 # Gems
 plugins:
   - jekyll-paginate

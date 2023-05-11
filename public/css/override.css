@@ -99,6 +99,6 @@ div.continue-link a {
    list-style-type: decimal;
 }
 
-.toc-subsection {
+.toc-subsection li {
    list-style-type: lower-alpha;
 }

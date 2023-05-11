@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Tilt Five - First Impression
-toc: false
 ---
 <!-- excerpt-start -->
 Do you remember the PlayStation 2? I know, I know, you want to hear about [Tilt5](https://www.tiltfive.com/) - bear with me.
