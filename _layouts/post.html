@@ -14,10 +14,7 @@ layout: default
   
     {% include toc.html html=content h_min=my_toc_min h_max=my_toc_max ordered=my_toc_ordered item_class=my_toc_item_class submenu_class=my_toc_submenu_class %}
   {% endif %}
-  
-  {% if page.toc == false %}
-    {{ content }}
-  {% endif %}
+  {{ content }}
 </div>
 
 {% if site.related_posts.size >= 1 %}

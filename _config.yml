@@ -16,11 +16,11 @@ author:
   email:             markdotto@gmail.com
 
 # TOC configuration
-my_toc_min: 1
-my_toc_max: 3
-my_toc_ordered: true
-my_toc_item_class: 'toc-section'
-my_toc_submenu_class: 'toc-subsection'
+toc_min: 1
+toc_max: 3
+toc_ordered: true
+toc_item_class: 'toc-section'
+toc_submenu_class: 'toc-subsection'
 
 # Gems
 plugins:
