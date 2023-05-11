@@ -4,6 +4,7 @@ toc: true
 ---
 
 # Introduction
+___
 
 <!-- excerpt-start -->
 I've already talked about [Tilt5](https://www.tiltfive.com/) in a previous post. Their system is a wonderful place to start and is dialed in on tabletop gaming with a strong social component. However, what happens if your aspirations are larger?
@@ -26,6 +27,7 @@ To this effect, DMS has created the ["ARCade setup"](https://www.dragonmagicstud
 The one downside, perhaps, is that there's no instructions currently on how to build this frame. As one of the first to receive an ARCade setup, I wanted to fix that. PVC isn't terribly hard to work with, but I know that not everyone has done so in their past.
 
 # Materials
+___
 
 To begin, you will need the following:
 - 1 x PVC cutting tool (two styles are shown in the picture below)
@@ -44,6 +46,7 @@ To begin, you will need the following:
 - 1 x ARCade setup by Dragon Magic Studios
 
 # How to Cut PVC
+___
 1. Measure from the flat end of a pipe to the total length you wish to end up with. Mark that once with a permanent marker.
 [![Measuring tape lying on top of a PVC pipe section](/public/img/2022-12-14/cut-pvc-first-mark.png#thumbnail "Measuring tape lying on top of a PVC pipe section")](/public/img/2022-12-14/cut-pvc-first-mark.png)
 2. Rotate the pipe slightly and do this once more to create two marks which are in line with each other.
@@ -54,6 +57,7 @@ To begin, you will need the following:
 # Instructions
 
 ## Top Crossbar
+___
 
 1. Begin by cutting (2) 34" sections of PVC pipes (These are the main horizontal top and bottom bars)
 2. Cut (4) 1.5" sections of PVC
@@ -71,13 +75,16 @@ To begin, you will need the following:
 [![One 90 degree PVC elbow attached to a section of PVC](/public/img/2022-12-14/top-crossbar-90-degree.png#thumbnail "One 90 degree PVC elbow attached to a section of PVC")](/public/img/2022-12-14/top-crossbar-90-degree.png)
 
 ## Bottom Crossbar
+___
 1. Repeat top crossbar steps in full. (No, really!)
 [![Assembled bottom crossbar made of PVC pipe](/public/img/2022-12-14/bottom-crossbar-really.png#thumbnail "Assembled bottom crossbar made of PVC pipe")](/public/img/2022-12-14/bottom-crossbar-really.png)
 
 ## Center Supports
+___
 1. Cut (4) 40" sections of PVC
 
 ## Final Assembly
+___
 1. Insert (1) 40" section of PVC into each open hole of the top crossbar
 [![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards](/public/img/2022-12-14/final-assembly-top-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards")](/public/img/2022-12-14/final-assembly-top-crossbar.png)
 1. Insert reverse end of 40" sections into the bottom crossbar
@@ -99,6 +106,7 @@ To begin, you will need the following:
 <strong>NOTE:</strong> I'm still experimenting with how to smooth the fabric. The final product should look much better for you than in my final picture, as wrinkles in the fabric will distort or throw off the 3D effect of the Tilt5 projection.
 
 # Final Words
+___
 
 This post was entirely to describe the construction of the ARCade setup, not to review it. As soon as I have a bit more time, I will follow up with a separate review post.
 
