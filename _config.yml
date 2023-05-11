@@ -15,9 +15,21 @@ author:
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
+toc:
+  min_level: 1
+  max_level: 6
+  ordered_list: true
+  no_toc_section_class: no_toc_section
+  list_id: toc
+  list_class: toc-section
+  sublist_class: toc-subsection
+  item_class: toc-entry
+  item_prefix: toc-
+
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-toc
 
 # Custom vars
 version:             1.1.0

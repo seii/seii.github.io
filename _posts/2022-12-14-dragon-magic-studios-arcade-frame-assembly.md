@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Dragon Magic Studios - ARCade Frame Assembly
+toc: true
 ---
 
-# Table of contents
+<!--# Table of contents
 1. [Introduction](#introduction)
 2. [Materials](#materials)
 3. [How to Cut PVC](#how-to-cut-pvc)
@@ -12,9 +13,9 @@ title: Dragon Magic Studios - ARCade Frame Assembly
     2. [Bottom Crossbar](#bottom-crossbar)
     3. [Center Supports](#center-supports)
     4. [Final Assembly](#final-assembly)
-5. [Final Words](#final-words)
+5. [Final Words](#final-words)-->
 
-<a name="introduction"></a>
+<!--<a name="introduction"></a>-->
 # Introduction
 
 <!-- excerpt-start -->
@@ -37,7 +38,7 @@ To this effect, DMS has created the ["ARCade setup"](https://www.dragonmagicstud
 
 The one downside, perhaps, is that there's no instructions currently on how to build this frame. As one of the first to receive an ARCade setup, I wanted to fix that. PVC isn't terribly hard to work with, but I know that not everyone has done so in their past.
 
-<a name="materials"></a>
+<!--<a name="materials"></a>-->
 # Materials
 
 To begin, you will need the following:
@@ -56,7 +57,7 @@ To begin, you will need the following:
 [![One PVC connector bent at a 90 degree angle](/public/img/2022-12-14/material-90-degree.png#thumbnail "One PVC connector bent at a 90 degree angle")](/public/img/2022-12-14/material-90-degree.png)
 - 1 x ARCade setup by Dragon Magic Studios
 
-<a name="how-to-cut-pvc"></a>
+<!--<a name="how-to-cut-pvc"></a>-->
 # How to Cut PVC
 1. Measure from the flat end of a pipe to the total length you wish to end up with. Mark that once with a permanent marker.
 [![Measuring tape lying on top of a PVC pipe section](/public/img/2022-12-14/cut-pvc-first-mark.png#thumbnail "Measuring tape lying on top of a PVC pipe section")](/public/img/2022-12-14/cut-pvc-first-mark.png)
@@ -65,10 +66,10 @@ To begin, you will need the following:
 3. Align the blade of your PVC cutting tool with the two marks you have made. Apply pressure (for one type of cutter) or slowly ratchet the blade down (for another type) until you have cut through the PVC and separated the section you measured from the main pipe.
 [![PVC cutting tool with blade aligned to two small marks on the PVC](/public/img/2022-12-14/cut-pvc-use-cutters.png#thumbnail "PVC cutting tool with blade aligned to two small marks on the PVC")](/public/img/2022-12-14/cut-pvc-use-cutters.png)
 
-<a name="instructions"></a>
+<!--<a name="instructions"></a>-->
 # Instructions
 
-<a name="top-crossbar"></a>
+<!--<a name="top-crossbar"></a>-->
 ## Top Crossbar
 
 1. Begin by cutting (2) 34" sections of PVC pipes (These are the main horizontal top and bottom bars)
@@ -86,16 +87,16 @@ To begin, you will need the following:
 8. Attach (1) 90° PVC elbow junction to the 9.5" section of PVC. Repeat for the 9.5" section on the other side. This completes the top crossbar!
 [![One 90 degree PVC elbow attached to a section of PVC](/public/img/2022-12-14/top-crossbar-90-degree.png#thumbnail "One 90 degree PVC elbow attached to a section of PVC")](/public/img/2022-12-14/top-crossbar-90-degree.png)
 
-<a name="bottom-crossbar"></a>
+<!--<a name="bottom-crossbar"></a>-->
 ## Bottom Crossbar
 1. Repeat top crossbar steps in full. (No, really!)
 [![Assembled bottom crossbar made of PVC pipe](/public/img/2022-12-14/bottom-crossbar-really.png#thumbnail "Assembled bottom crossbar made of PVC pipe")](/public/img/2022-12-14/bottom-crossbar-really.png)
 
-<a name="center-supports"></a>
+<!--<a name="center-supports"></a>-->
 ## Center Supports
 1. Cut (4) 40" sections of PVC
 
-<a name="final-assembly"></a>
+<!--<a name="final-assembly"></a>-->
 ## Final Assembly
 1. Insert (1) 40" section of PVC into each open hole of the top crossbar
 [![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards](/public/img/2022-12-14/final-assembly-top-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards")](/public/img/2022-12-14/final-assembly-top-crossbar.png)
@@ -117,7 +118,7 @@ To begin, you will need the following:
 
 <strong>NOTE:</strong> I'm still experimenting with how to smooth the fabric. The final product should look much better for you than in my final picture, as wrinkles in the fabric will distort or throw off the 3D effect of the Tilt5 projection.
 
-<a name="final-words"></a>
+<!--<a name="final-words"></a>-->
 # Final Words
 
 This post was entirely to describe the construction of the ARCade setup, not to review it. As soon as I have a bit more time, I will follow up with a separate review post.

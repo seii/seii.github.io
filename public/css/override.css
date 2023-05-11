@@ -94,3 +94,11 @@ div.continue-link {
 div.continue-link a {
    color: #ff7c11;
 }
+
+.toc-section {
+   list-style-type: decimal;
+}
+
+.toc-subsection {
+   list-style-type: lower-alpha;
+}
