@@ -17,11 +17,11 @@ title: Dragon Magic Studios - ARCade Frame Assembly
 <a name="introduction"></a>
 # Introduction
 
+<!-- excerpt-start -->
 I've already talked about [Tilt5](https://www.tiltfive.com/) in a previous post. Their system is a wonderful place to start and is dialed in on tabletop gaming with a strong social component. However, what happens if your aspirations are larger?
 
 Well, they're not going to stop you - far from it. However, they don't have the time and resources to cater to every random idea that comes across the desk, either. For that, T5 turns to its community. One such member, Dragon Magic Studios, happened to live in China and have a strong interest in materials and resources. Upon testing the Tilt5 device and its board, he found that he really wanted... something better. Specifically, the board had visible lines, wasn't easy to clean, and was relatively fragile for something that's intended to pick up and move around from table to table.
-
-<more />
+<!-- excerpt-end -->
 
 Luckily for everyone, he did something about this.
 

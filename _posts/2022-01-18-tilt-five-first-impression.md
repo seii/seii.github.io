@@ -2,10 +2,10 @@
 layout: post
 title: Tilt Five - First Impression
 ---
+<!-- excerpt-start -->
 Do you remember the PlayStation 2? I know, I know, you want to hear about [Tilt5](https://www.tiltfive.com/) - bear with me.
 So, do you remember? A console that included various versions of Grand Theft Auto, Final Fantasy, Metal Gear Solid, and Tekken? The games were already great, and many of us have fond memories of them. Now, what if you played those games again today on a display that was so 3-dimensional it seemed like you would fall into it if you got too close?
-
-<more />
+<!-- excerpt-end -->
   
 More than 7 years ago, I backed a product called "CastAR" via Kickstarter. The promise was simple - augmented reality glasses focused on tabletop gaming which could be lightweight and multiplayer because it projected onto a special surface instead of trying to beam directly into your eyes. The special surface - [retroreflective material](https://en.wikipedia.org/wiki/Retroreflector) - meant that each player would see what their own glasses sent rather than what anyone else saw. For a number of reasons, CastAR eventually had to refund its backers and shut down. However, in a great comeback story the founder was able to regain most of the tech and start a new company with the same goal: Tilt Five.
 
