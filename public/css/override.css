@@ -95,7 +95,7 @@ div.continue-link a {
    color: #ff7c11;
 }
 
-.toc-section {
+li.toc-section {
    list-style-type: decimal;
 }
 
