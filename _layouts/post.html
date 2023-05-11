@@ -5,7 +5,19 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_long_string }}</span>
-  {{ content | toc }}
+  {% if page.toc == true %}
+    {% assign my_toc_min = page.toc_min | default: site.toc_min | default: 1 %}
+    {% assign my_toc_max = page.toc_max | default: site.toc_max | default: 3 %}
+    {% assign my_toc_ordered = page.toc_ordered | default: site.toc_ordered | default: true %}
+    {% assign my_toc_item_class = page.toc_item_class | default: site.toc_item_class | default: '' %}
+    {% assign my_toc_submenu_class = page.toc_submenu_class | default: site.toc_submenu_class | default: '' %}
+  
+    {% include toc.html html=content h_min=my_toc_min h_max=my_toc_max ordered=my_toc_ordered item_class=my_toc_item_class submenu_class=my_toc_submenu_class %}
+  {% endif %}
+  
+  {% if page.toc == false %}
+    {{ content }}
+  {% endif %}
 </div>
 
 {% if site.related_posts.size >= 1 %}
