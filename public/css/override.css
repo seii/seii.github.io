@@ -87,10 +87,10 @@ img[src*="#thumbnail"] {
    content: "\2604";
 }
 
-.continue-link div {
+div.continue-link {
    text-align: center;
 }
 
-.continue-link div a {
+div.continue-link a {
    color: #ff7c11;
 }
