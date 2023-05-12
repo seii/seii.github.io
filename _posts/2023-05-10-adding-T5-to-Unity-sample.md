@@ -100,7 +100,6 @@ In the Unity Karting sample, the default camera we disabled is pre-configured to
 1. You should now see a "FollowKart (script)" section in the "Inspector" pane. Click the three vertical dots next to its name and select "Edit Script" to open your editor.
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/19-edit-script.png#centered "&nbsp;")](/public/img/2023-05-11/19-edit-script.png)
 1. In the editor, paste the following code (which is mostly from TiltFive's [Game Board](https://docs.tiltfive.com/t5_gameboard_details.html#game-board) documentation):
-
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -129,8 +128,7 @@ public class FollowKart : MonoBehaviour
     }
 }
 ```
-
-1. Save the script in the editor and exit the editor to return to Unity. (Unity will recompile its scripts briefly, that's normal.)
+9. Save the script in the editor and exit the editor to return to Unity. (Unity will recompile its scripts briefly, that's normal.)
 1. The "FollowKart (script)" section has now updated to reflect the variables which we set in code.
 [![Section within Unity's Inspector titled "Follow Kart (Script)" and focusing on two fields "Game Board Transform" and "Follow Object".](/public/img/2023-05-11/th/20-followkart-variables.png#centered "&nbsp;")](/public/img/2023-05-11/20-followkart-variables.png)
 1. Click the circle to the far right of the "Game Board Transform" variable. Search for "game board" in the popup, and double-click the "Tilt Five Game Board" entry.
@@ -162,7 +160,6 @@ TiltFive's wand controls [approximate](https://docs.tiltfive.com/t5_tfw_details.
 1. In the "Inspector" pane on the right, scroll down to the bottom until you see the "Keyboard Input (script)" section. Click the three vertical dots next to its name and select "Edit Script".
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/29-edit-input-script.png#centered "&nbsp;")](/public/img/2023-05-11/29-edit-input-script.png)
 1. Within the opened script, replace the contents with the following code:
-
 ```
 using UnityEngine;
 
@@ -202,8 +199,7 @@ namespace KartGame.KartSystems {
 }
 
 ```
-
-1. Save the script and return to the Unity Editor. You shouldn't see any errors.
+10. Save the script and return to the Unity Editor. You shouldn't see any errors.
 
 At this point, it's actually possible to use the TiltFive Wand directly within Unity's game preview screen if you wish. Just click the "Play" button at the top of the editor to test the controls, and adjust as necessary. If your TiltFive headset is hooked up correctly, you can also look at your physical game board to see the results of your work.
 
