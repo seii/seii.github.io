@@ -31,28 +31,28 @@ ___
 
 To begin, you will need the following:
 - 1 x PVC cutting tool (two styles are shown in the picture below)
-[![Two tools designed for cutting PVC, lying adjacent on a cement floor](/public/img/2022-12-14/cut-pvc-cutter-tools.png#thumbnail "Two examples of PVC cutting tools")](/public/img/2022-12-14/cut-pvc-cutter-tools.png)
+[![Two tools designed for cutting PVC, lying adjacent on a cement floor](/public/img/2022-12-14/th/cut-pvc-cutter-tools.png#thumbnail "Two examples of PVC cutting tools")](/public/img/2022-12-14/cut-pvc-cutter-tools.png)
 - At least 24 linear feet of 1/2" diameter PVC pipes (three 10' pipes works great for this)
 - A couple zip ties (also called "cable ties")
-[![Plastic zip ties on a wood floor](/public/img/2022-12-14/material-zip-ties.png#thumbnail "Plastic zip ties on a wood floor")](/public/img/2022-12-14/materal-zip-ties.png)
+[![Plastic zip ties on a wood floor](/public/img/2022-12-14/th/material-zip-ties.png#thumbnail "Plastic zip ties on a wood floor")](/public/img/2022-12-14/materal-zip-ties.png)
 - At least 2 clamps which are strong enough to hold a piece of fabric suspended in the air
-[![Two small plastic tension clamps](/public/img/2022-12-14/material-clamps.png#thumbnail "Two small plastic tension clamps")](/public/img/2022-12-14/material-clamps.png)
+[![Two small plastic tension clamps](/public/img/2022-12-14/th/material-clamps.png#thumbnail "Two small plastic tension clamps")](/public/img/2022-12-14/material-clamps.png)
 - 4 x T-shape PVC junctions ("slip" ends, not "thread" ends)
-[![One T-shaped PVC connector](/public/img/2022-12-14/material-t-connector.png#thumbnail "One T-shaped PVC connector")](/public/img/2022-12-14/material-t-connector.png)
+[![One T-shaped PVC connector](/public/img/2022-12-14/th/material-t-connector.png#thumbnail "One T-shaped PVC connector")](/public/img/2022-12-14/material-t-connector.png)
 - 4 x 45° PVC elbow junctions (slip ends)
-[![One PVC connector bent at a 45 degree angle](/public/img/2022-12-14/material-45-degree.png#thumbnail "One PVC connector bent at a 45 degree angle")](/public/img/2022-12-14/material-45-degree.png)
+[![One PVC connector bent at a 45 degree angle](/public/img/2022-12-14/th/material-45-degree.png#thumbnail "One PVC connector bent at a 45 degree angle")](/public/img/2022-12-14/material-45-degree.png)
 - 4 x 90° PVC elbow junctions (slip ends)
-[![One PVC connector bent at a 90 degree angle](/public/img/2022-12-14/material-90-degree.png#thumbnail "One PVC connector bent at a 90 degree angle")](/public/img/2022-12-14/material-90-degree.png)
+[![One PVC connector bent at a 90 degree angle](/public/img/2022-12-14/th/material-90-degree.png#thumbnail "One PVC connector bent at a 90 degree angle")](/public/img/2022-12-14/material-90-degree.png)
 - 1 x ARCade setup by Dragon Magic Studios
 
 # How to Cut PVC
 ___
 1. Measure from the flat end of a pipe to the total length you wish to end up with. Mark that once with a permanent marker.
-[![Measuring tape lying on top of a PVC pipe section](/public/img/2022-12-14/cut-pvc-first-mark.png#thumbnail "Measuring tape lying on top of a PVC pipe section")](/public/img/2022-12-14/cut-pvc-first-mark.png)
+[![Measuring tape lying on top of a PVC pipe section](/public/img/2022-12-14/th/cut-pvc-first-mark.png#thumbnail "Measuring tape lying on top of a PVC pipe section")](/public/img/2022-12-14/cut-pvc-first-mark.png)
 2. Rotate the pipe slightly and do this once more to create two marks which are in line with each other.
-[![Measuring tape lying on different side of PVC pipe from previous picture](/public/img/2022-12-14/cut-pvc-second-mark.png#thumbnail "Measuring tape lying on different side of PVC pipe from previous picture")](/public/img/2022-12-14/cut-pvc-second-mark.png)
+[![Measuring tape lying on different side of PVC pipe from previous picture](/public/img/2022-12-14/th/cut-pvc-second-mark.png#thumbnail "Measuring tape lying on different side of PVC pipe from previous picture")](/public/img/2022-12-14/cut-pvc-second-mark.png)
 3. Align the blade of your PVC cutting tool with the two marks you have made. Apply pressure (for one type of cutter) or slowly ratchet the blade down (for another type) until you have cut through the PVC and separated the section you measured from the main pipe.
-[![PVC cutting tool with blade aligned to two small marks on the PVC](/public/img/2022-12-14/cut-pvc-use-cutters.png#thumbnail "PVC cutting tool with blade aligned to two small marks on the PVC")](/public/img/2022-12-14/cut-pvc-use-cutters.png)
+[![PVC cutting tool with blade aligned to two small marks on the PVC](/public/img/2022-12-14/th/cut-pvc-use-cutters.png#thumbnail "PVC cutting tool with blade aligned to two small marks on the PVC")](/public/img/2022-12-14/cut-pvc-use-cutters.png)
 
 # Instructions
 
@@ -62,22 +62,22 @@ ___
 1. Begin by cutting (2) 34" sections of PVC pipes (These are the main horizontal top and bottom bars)
 2. Cut (4) 1.5" sections of PVC
 3. Cut (4) 9.5" sections of PVC
-[![Dissassembled PVC pieces of top crossbar](/public/img/2022-12-14/top-crossbar-all-pieces.png#thumbnail "Dissassembled PVC pieces of top crossbar")](/public/img/2022-12-14/top-crossbar-all-pieces.png)
+[![Dissassembled PVC pieces of top crossbar](/public/img/2022-12-14/th/top-crossbar-all-pieces.png#thumbnail "Dissassembled PVC pieces of top crossbar")](/public/img/2022-12-14/top-crossbar-all-pieces.png)
 4. Attach (1) T-shaped PVC connector to one end of a 34" section. Repeat with the other end of the same PVC section
-[![One T-shaped PVC connector attached to a straight piece of PVC](/public/img/2022-12-14/top-crossbar-t-connector.png#thumbnail "One T-shaped PVC connector attached to a straight piece of PVC")](/public/img/2022-12-14/top-crossbar-t-connector.png)
+[![One T-shaped PVC connector attached to a straight piece of PVC](/public/img/2022-12-14/th/top-crossbar-t-connector.png#thumbnail "One T-shaped PVC connector attached to a straight piece of PVC")](/public/img/2022-12-14/top-crossbar-t-connector.png)
 5. Insert (1) 1.5" section of PVC into a T-shaped connector to create a very short extension. Repeat for the elbow on the opposite side.
-[![One one and one-half inch section of PVC attached to a T-shaped PVC connector](/public/img/2022-12-14/top-crossbar-short-section.png#thumbnail "One one and one-half inch section of PVC attached to a T-shaped PVC connector")](/public/img/2022-12-14/top-crossbar-short-section.png)
+[![One one and one-half inch section of PVC attached to a T-shaped PVC connector](/public/img/2022-12-14/th/top-crossbar-short-section.png#thumbnail "One one and one-half inch section of PVC attached to a T-shaped PVC connector")](/public/img/2022-12-14/top-crossbar-short-section.png)
 6. Attach (1) 45° PVC elbow junction to the 1.5" section. Repeat for the 1.5" section on the opposite side. You should now have a crosspiece ending in a 45° bend on both sides.
-[![One 45 degree PVC elbow attached to a very short section of PVC](/public/img/2022-12-14/top-crossbar-45-degree.png#thumbnail "One 45 degree PVC elbow attached to a very short section of PVC")](/public/img/2022-12-14/top-crossbar-45-degree.png)
+[![One 45 degree PVC elbow attached to a very short section of PVC](/public/img/2022-12-14/th/top-crossbar-45-degree.png#thumbnail "One 45 degree PVC elbow attached to a very short section of PVC")](/public/img/2022-12-14/top-crossbar-45-degree.png)
 7. Insert (1) 9.5" section of PVC into the 45° elbow junction. Repeat for the elbow on the opposite side.
-[![One nine and one-half inch section of PVC attached to a 45 degree PVC elbow](/public/img/2022-12-14/top-crossbar-9-inch-straight.png#thumbnail "One nine and one-half inch section of PVC attached to a 45 degree PVC elbow")](/public/img/2022-12-14/top-crossbar-9-inch-straight.png)
+[![One nine and one-half inch section of PVC attached to a 45 degree PVC elbow](/public/img/2022-12-14/th/top-crossbar-9-inch-straight.png#thumbnail "One nine and one-half inch section of PVC attached to a 45 degree PVC elbow")](/public/img/2022-12-14/top-crossbar-9-inch-straight.png)
 8. Attach (1) 90° PVC elbow junction to the 9.5" section of PVC. Repeat for the 9.5" section on the other side. This completes the top crossbar!
-[![One 90 degree PVC elbow attached to a section of PVC](/public/img/2022-12-14/top-crossbar-90-degree.png#thumbnail "One 90 degree PVC elbow attached to a section of PVC")](/public/img/2022-12-14/top-crossbar-90-degree.png)
+[![One 90 degree PVC elbow attached to a section of PVC](/public/img/2022-12-14/th/top-crossbar-90-degree.png#thumbnail "One 90 degree PVC elbow attached to a section of PVC")](/public/img/2022-12-14/top-crossbar-90-degree.png)
 
 ## Bottom Crossbar
 ___
 1. Repeat top crossbar steps in full. (No, really!)
-[![Assembled bottom crossbar made of PVC pipe](/public/img/2022-12-14/bottom-crossbar-really.png#thumbnail "Assembled bottom crossbar made of PVC pipe")](/public/img/2022-12-14/bottom-crossbar-really.png)
+[![Assembled bottom crossbar made of PVC pipe](/public/img/2022-12-14/th/bottom-crossbar-really.png#thumbnail "Assembled bottom crossbar made of PVC pipe")](/public/img/2022-12-14/bottom-crossbar-really.png)
 
 ## Center Supports
 ___
@@ -86,22 +86,22 @@ ___
 ## Final Assembly
 ___
 1. Insert (1) 40" section of PVC into each open hole of the top crossbar
-[![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards](/public/img/2022-12-14/final-assembly-top-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards")](/public/img/2022-12-14/final-assembly-top-crossbar.png)
+[![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards](/public/img/2022-12-14/th/final-assembly-top-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces downwards")](/public/img/2022-12-14/final-assembly-top-crossbar.png)
 1. Insert reverse end of 40" sections into the bottom crossbar
-[![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces upwards](/public/img/2022-12-14/final-assembly-bottom-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces upwards")](/public/img/2022-12-14/final-assembly-bottom-crossbar.png)
+[![One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces upwards](/public/img/2022-12-14/th/final-assembly-bottom-crossbar.png#thumbnail "One 40 inch section of straight PVC inserted into a T-shaped PVC connector which faces upwards")](/public/img/2022-12-14/final-assembly-bottom-crossbar.png)
 1. Apply pressure as needed to all elbow junctions, ensuring that the fit is reasonably firm. You should be able to lift this frame by the center supports without it feeling like it's going to fall apart.
 1. Stand the frame up on its bottom crossbar
 1. Attach a zip tie to the left-most 90° elbow junction as an anchor point. Repeat for the right-most 90° elbow junction.
-[![Zip tie wrapped around a 90 degree PVC elbow junction](/public/img/2022-12-14/final-assembly-zip-tie-corner.png#thumbnail "Zip tie wrapped around a 90 degree PVC elbow junction")](/public/img/2022-12-14/final-assembly-zip-tie-corner.png)
+[![Zip tie wrapped around a 90 degree PVC elbow junction](/public/img/2022-12-14/th/final-assembly-zip-tie-corner.png#thumbnail "Zip tie wrapped around a 90 degree PVC elbow junction")](/public/img/2022-12-14/final-assembly-zip-tie-corner.png)
 1. Attach (1) clamp to each zip tie as necessary. (You will have to decide where on your style of zip tie it makes most sense to attach the clamps.)
-[![Plastic tension clamp attached to a zip tie](/public/img/2022-12-14/final-assembly-clamp-zip-tie.png#thumbnail "Plastic tension clamp attached to a zip tie")](/public/img/2022-12-14/final-assembly-clamp-zip-tie.png)
+[![Plastic tension clamp attached to a zip tie](/public/img/2022-12-14/th/final-assembly-clamp-zip-tie.png#thumbnail "Plastic tension clamp attached to a zip tie")](/public/img/2022-12-14/final-assembly-clamp-zip-tie.png)
 1. Stand frame such that the "U" shape opens towards you, not away from you.
-[![Assembled PVC frame with slight U shape, standing on a floor](/public/img/2022-12-14/final-assembly-frame-facing.png#thumbnail "Assembled PVC frame with slight U shape, standing on a floor")](/public/img/2022-12-14/final-assembly-frame-facing.png)
+[![Assembled PVC frame with slight U shape, standing on a floor](/public/img/2022-12-14/th/final-assembly-frame-facing.png#thumbnail "Assembled PVC frame with slight U shape, standing on a floor")](/public/img/2022-12-14/final-assembly-frame-facing.png)
 1. Unroll ARCade fabric such that Tilt5 board pattern is "down", facing you, and facing away from the "U" shape
 1. Attach left-most upper corner of ARCade fabric to left-most clamp. Repeat with right-most corner and right-most clamp.
-[![Plastic clamp holding corner of retroreflective fabric to zip tie](/public/img/2022-12-14/final-assembly-clamp-corner-fabric.png#thumbnail "Plastic clamp holding corner of retroreflective fabric to zip tie")](/public/img/2022-12-14/final-assembly-clamp-corner-fabric.png)
+[![Plastic clamp holding corner of retroreflective fabric to zip tie](/public/img/2022-12-14/th/final-assembly-clamp-corner-fabric.png#thumbnail "Plastic clamp holding corner of retroreflective fabric to zip tie")](/public/img/2022-12-14/final-assembly-clamp-corner-fabric.png)
 1. Adjust height or alignment as necessary to achieve a smooth, arced fall to the sheet which allows gravity to smooth most wrinkles that want to occur in any fabric
-[![Silvery retroreflective fabric fully unrolled with bottom lying flat on the ground and slight bend where the vertical meets the horizontal](/public/img/2022-12-14/final-assembly-complete.png#thumbnail "Silvery retroreflective fabric fully unrolled with bottom lying flat on the ground and slight bend where the vertical meets the horizontal")](/public/img/2022-12-14/final-assembly-complete.png)
+[![Silvery retroreflective fabric fully unrolled with bottom lying flat on the ground and slight bend where the vertical meets the horizontal](/public/img/2022-12-14/th/final-assembly-complete.png#thumbnail "Silvery retroreflective fabric fully unrolled with bottom lying flat on the ground and slight bend where the vertical meets the horizontal")](/public/img/2022-12-14/final-assembly-complete.png)
 
 <strong>NOTE:</strong> I'm still experimenting with how to smooth the fabric. The final product should look much better for you than in my final picture, as wrinkles in the fabric will distort or throw off the 3D effect of the Tilt5 projection.
 
