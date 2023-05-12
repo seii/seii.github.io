@@ -54,15 +54,21 @@ abbr {
 }
 
 code {
-  color: #000;
+  color: #fff;
   /*background-color: rgba(255,124,17,.7);*/
-  background-color: rgba(255,184,17,.7);
-  font-weight: bold;
+  /*background-color: rgba(255,184,17,.7);*/
+  background-color: black;
+  border: 1px solid #ff4500;
+  border-radius: 4px;
 }
 
 pre {
 	background: black;
 	border: 2px solid #ff4500;
+}
+
+pre code {
+	border: none;
 }
 
 hr {
