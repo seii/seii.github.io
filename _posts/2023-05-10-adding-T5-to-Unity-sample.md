@@ -100,6 +100,7 @@ In the Unity Karting sample, the default camera we disabled is pre-configured to
 1. You should now see a "FollowKart (script)" section in the "Inspector" pane. Click the three vertical dots next to its name and select "Edit Script" to open your editor.
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/19-edit-script.png#centered "&nbsp;")](/public/img/2023-05-11/19-edit-script.png)
 1. In the editor, paste the following code (which is mostly from TiltFive's [Game Board](https://docs.tiltfive.com/t5_gameboard_details.html#game-board) documentation):
+
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -160,6 +161,7 @@ TiltFive's wand controls [approximate](https://docs.tiltfive.com/t5_tfw_details.
 1. In the "Inspector" pane on the right, scroll down to the bottom until you see the "Keyboard Input (script)" section. Click the three vertical dots next to its name and select "Edit Script".
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/29-edit-input-script.png#centered "&nbsp;")](/public/img/2023-05-11/29-edit-input-script.png)
 1. Within the opened script, replace the contents with the following code:
+
 ```
 using UnityEngine;
 
