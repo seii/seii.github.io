@@ -101,35 +101,35 @@ In the Unity Karting sample, the default camera we disabled is pre-configured to
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/19-edit-script.png#centered "&nbsp;")](/public/img/2023-05-11/19-edit-script.png)
 1. In the editor, paste the following code (which is mostly from TiltFive's [Game Board](https://docs.tiltfive.com/t5_gameboard_details.html#game-board) documentation):
 
-```
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-[DefaultExecutionOrder(100)]
-public class FollowKart : MonoBehaviour
-{
-    // The Game Board Transform.
-    public Transform gameBoardTransform;
-
-    // The object to be followed.
-    public Transform followObject;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        gameBoardTransform.position = followObject.position;
-        gameBoardTransform.rotation = followObject.rotation;
-    }
-}
-```
-9. Save the script in the editor and exit the editor to return to Unity. (Unity will recompile its scripts briefly, that's normal.)
+   - ```
+     using System.Collections;
+     using System.Collections.Generic;
+     using UnityEngine;
+     
+     [DefaultExecutionOrder(100)]
+     public class FollowKart : MonoBehaviour
+     {
+         // The Game Board Transform.
+         public Transform gameBoardTransform;
+     
+         // The object to be followed.
+         public Transform followObject;
+     
+         // Start is called before the first frame update
+         void Start()
+         {
+             
+         }
+     
+         // Update is called once per frame
+         void Update()
+         {
+             gameBoardTransform.position = followObject.position;
+             gameBoardTransform.rotation = followObject.rotation;
+         }
+     }
+     ```
+1. Save the script in the editor and exit the editor to return to Unity. (Unity will recompile its scripts briefly, that's normal.)
 1. The "FollowKart (script)" section has now updated to reflect the variables which we set in code.
 [![Section within Unity's Inspector titled "Follow Kart (Script)" and focusing on two fields "Game Board Transform" and "Follow Object".](/public/img/2023-05-11/th/20-followkart-variables.png#centered "&nbsp;")](/public/img/2023-05-11/20-followkart-variables.png)
 1. Click the circle to the far right of the "Game Board Transform" variable. Search for "game board" in the popup, and double-click the "Tilt Five Game Board" entry.
@@ -162,46 +162,45 @@ TiltFive's wand controls [approximate](https://docs.tiltfive.com/t5_tfw_details.
 [![Menu entry with "Edit Script" highlighted](/public/img/2023-05-11/th/29-edit-input-script.png#centered "&nbsp;")](/public/img/2023-05-11/29-edit-input-script.png)
 1. Within the opened script, replace the contents with the following code:
 
-```
-using UnityEngine;
-
-namespace KartGame.KartSystems {
-
-    public class KeyboardInput : BaseInput
-    {
-        public string TurnInputName = "Horizontal";
-        public string AccelerateButtonName = "Accelerate";
-        public string BrakeButtonName = "Brake";
-
-        public override InputData GenerateInput() {
-            // Check if the TiltFive wand is available for use
-            if (TiltFive.Input.GetWandAvailability())
-            {
-                return new InputData
-                {
-                    // Wand controller button "A"
-                    Accelerate = TiltFive.Input.GetButton(TiltFive.Input.WandButton.A),
-                    // Wand controller button "B"
-                    Brake = TiltFive.Input.GetButton(TiltFive.Input.WandButton.B),
-                    // Wand controller stick, assuming that the user will turn the wand on its side to use it like a gamepad
-                    TurnInput = TiltFive.Input.GetStickTilt().y * -1
-                };
-            }
-            else
-            {
-                return new InputData
-                {
-                    Accelerate = Input.GetButton(AccelerateButtonName),
-                    Brake = Input.GetButton(BrakeButtonName),
-                    TurnInput = Input.GetAxis("Horizontal")
-                };
-            }
-        }
-    }
-}
-
-```
-10. Save the script and return to the Unity Editor. You shouldn't see any errors.
+   - ```
+     using UnityEngine;
+     
+     namespace KartGame.KartSystems {
+     
+         public class KeyboardInput : BaseInput
+         {
+             public string TurnInputName = "Horizontal";
+             public string AccelerateButtonName = "Accelerate";
+             public string BrakeButtonName = "Brake";
+     
+             public override InputData GenerateInput() {
+                 // Check if the TiltFive wand is available for use
+                 if (TiltFive.Input.GetWandAvailability())
+                 {
+                     return new InputData
+                     {
+                         // Wand controller button "A"
+                         Accelerate = TiltFive.Input.GetButton(TiltFive.Input.WandButton.A),
+                         // Wand controller button "B"
+                         Brake = TiltFive.Input.GetButton(TiltFive.Input.WandButton.B),
+                         // Wand controller stick, assuming that the user will turn the wand on its side to use it like a gamepad
+                         TurnInput = TiltFive.Input.GetStickTilt().y * -1
+                     };
+                 }
+                 else
+                 {
+                     return new InputData
+                     {
+                         Accelerate = Input.GetButton(AccelerateButtonName),
+                         Brake = Input.GetButton(BrakeButtonName),
+                         TurnInput = Input.GetAxis("Horizontal")
+                     };
+                 }
+             }
+         }
+     }
+     ```
+1. Save the script and return to the Unity Editor. You shouldn't see any errors.
 
 At this point, it's actually possible to use the TiltFive Wand directly within Unity's game preview screen if you wish. Just click the "Play" button at the top of the editor to test the controls, and adjust as necessary. If your TiltFive headset is hooked up correctly, you can also look at your physical game board to see the results of your work.
 
