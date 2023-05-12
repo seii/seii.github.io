@@ -13,16 +13,16 @@ Yesterday, I finally got my glasses in the mail.
 ### Packaging
 ___
 
-[![Cardboard box decorated in Tilt Five graphics, sitting on carpet](/public/img/2022-01-18/T5-box-closed.png#thumbnail "T5's shipping box is decorated in graphics")](/public/img/2022-01-18/T5-box-closed.png)
+[![Cardboard box decorated in Tilt Five graphics, sitting on carpet](/public/img/2022-01-18/th/T5-box-closed.png#thumbnail "T5's shipping box is decorated in graphics")](/public/img/2022-01-18/T5-box-closed.png)
 
 Personally I just wanted a chance to play around with the technology, so I had only opted to back the "LE kit" - a standard gameboard and glasses, no frills or colors. This turned out to work well for me, as unforeseen delays meant the "XE kits" (bigger gameboards) had to be delayed temporarily.
 
-[![Cardboard box opened, showing printed instructions on the lid and a gameboard wrapped in plastic](/public/img/2022-01-18/T5-box-open.png#thumbnail "Some instructions included")](/public/img/2022-01-18/T5-box-open.png)
-[![Cardboard box opened, showing a pair of glasses, a wand controller, and a USB cable](/public/img/2022-01-18/T5-box-contents.png#thumbnail "Packed in foam, looking snug")](/public/img/2022-01-18/T5-box-contents.png)
+[![Cardboard box opened, showing printed instructions on the lid and a gameboard wrapped in plastic](/public/img/2022-01-18/th/T5-box-open.png#thumbnail "Some instructions included")](/public/img/2022-01-18/T5-box-open.png)
+[![Cardboard box opened, showing a pair of glasses, a wand controller, and a USB cable](/public/img/2022-01-18/th/T5-box-contents.png#thumbnail "Packed in foam, looking snug")](/public/img/2022-01-18/T5-box-contents.png)
 
 I'm assuming that my LE kit was "pretty standard", but they still found a way to throw in a cool little cleaning cloth for the glasses.
 
-[![Small keychain cloth with Tilt Five logo, used for cleaning the glasses](/public/img/2022-01-18/T5-glasses-cloth.png#thumbnail "Have to clean the glasses somehow, right?")](/public/img/2022-01-18/T5-glasses-cloth.png)
+[![Small keychain cloth with Tilt Five logo, used for cleaning the glasses](/public/img/2022-01-18/th/T5-glasses-cloth.png#thumbnail "Have to clean the glasses somehow, right?")](/public/img/2022-01-18/T5-glasses-cloth.png)
 
 One thing worth noting: the wand controller does _not_ come with batteries. It's a small detail, and probably has to do with how shipping worked and such, but you'll want a pair of "AA" size batteries on hand before you start trying to play anything.
 
@@ -34,7 +34,7 @@ As far as setup goes, the paper instructions you can see in my pictures are a bi
 ### Glasses
 ___
 
-[![Tilt Five glasses laying upside down on carpet, attached to a USB cable](/public/img/2022-01-18/T5-glasses-dimmed.png#thumbnail "The glasses switch to a dimmed state when not looking at the board")](/public/img/2022-01-18/T5-glasses-dimmed.png)
+[![Tilt Five glasses laying upside down on carpet, attached to a USB cable](/public/img/2022-01-18/th/T5-glasses-dimmed.png#thumbnail "The glasses switch to a dimmed state when not looking at the board")](/public/img/2022-01-18/T5-glasses-dimmed.png)
 
 Once the glasses were connected and recognized, I put them on. I already wear glasses, but since I'm near-sighted and planned to look at a board close to me, I didn't bother using my prescription pair. (**UPDATE:** I originally said that wearing prescription glasses inside the T5 headset wasn't feasible unless you really had to. Since then, I've found that the noseguard in the T5 comes off easily if you want it to. With that piece removed, wearing prescription glasses inside your headset is much more comfortable, and appears to work fine with my prescription glasses.) Compared to the weight of my prescription glasses, the T5 unit is only barely noticeable. The arms on it are surprisingly long, and while they are very firm near the hinge (likely due to electronics), they are quite flexible towards the ends. This has to be intentional, as the arc both arms describe wouldn't make it onto most heads unless you could bend the ends to put them on. Despite needing to use leverage to put them on my head, don't get the wrong idea - for me, the pressure they apply to my head seemed negligible. The upside is that you can look straight down and they remain glued to your face.
 
@@ -43,7 +43,7 @@ ___
 
 With the glasses ready to go, I unfolded the gameboard. It is retroreflective on top, and has dots along the side for tracking purposes. The backing is very much like a standard board game - "Pictionary" is what came to mind, if you've ever played that one. The material itself seems decently rugged, and slightly rough to the touch. Based on what I've seen, you need to be careful when folding and unfolding the board because the material can pull away from its backing if you stress it the wrong way. This is common to board games with folding boards, so it's likely that differently made third-party boards will be manufactured and sold if T5 succeeds.
 
-[![Tilt Five game board unfolded, with reflective side up and tracking dots visible around the edges](/public/img/2022-01-18/T5-board-unfolded.png#thumbnail "Just lay it all out there")](/public/img/2022-01-18/T5-board-unfolded.png)
+[![Tilt Five game board unfolded, with reflective side up and tracking dots visible around the edges](/public/img/2022-01-18/th/T5-board-unfolded.png#thumbnail "Just lay it all out there")](/public/img/2022-01-18/T5-board-unfolded.png)
 
 ### Software
 ___
