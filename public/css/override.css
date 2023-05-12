@@ -55,7 +55,14 @@ abbr {
 
 code {
   color: #000;
-  background-color: rgba(255,124,17,.7);
+  /*background-color: rgba(255,124,17,.7);*/
+  background-color: rgba(255,184,17,.7);
+  font-weight: bold;
+}
+
+pre {
+	background: black;
+	border: 2px solid #ff4500;
 }
 
 hr {
