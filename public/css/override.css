@@ -120,3 +120,32 @@ li.toc-section {
 ol.toc-subsection li.toc-section {
    list-style-type: lower-alpha;
 }
+
+/*
+ * Styling for special "click to expand" <aside> tags inspired by
+ * Jasper Flick @ catlikecoding.com
+ * Site: https://catlikecoding.com/
+ */
+ 
+ aside {
+	background-color: #ddd;
+	border: 2px solid #ccc;
+	font-size: 14px;
+	margin: 1em;
+	padding: 0 1em
+}
+
+aside h3 {
+	font-size: 14px;
+	margin: 0 0 1em;
+	padding: 1em 0 0;
+	cursor: pointer
+}
+
+aside div {
+	display: none
+}
+
+aside div.expanded {
+	display: block
+}
