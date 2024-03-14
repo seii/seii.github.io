@@ -128,24 +128,38 @@ ol.toc-subsection li.toc-section {
  */
  
  aside {
-	background-color: #ddd;
-	border: 2px solid #ccc;
-	font-size: 14px;
+	background-color: rgba(80,80,80,.3);
+	border: 1px solid #ff7c11;
 	margin: 1em;
-	padding: 0 1em
+	padding: 0 1em;
 }
 
 aside h3 {
-	font-size: 14px;
 	margin: 0 0 1em;
 	padding: 1em 0 0;
-	cursor: pointer
+	cursor: pointer;
+	color: #ff7c11;
 }
 
 aside div {
-	display: none
+	display: none;
+}
+
+aside h3::before {
+  content: '\1F53D\FE0E';
+  padding-right: 0.5em;
+  color: #ff4500;
+  text-shadow: #ff4500;
+}
+
+aside h3.expanded::before {
+  content: '\1F53C\FE0E';
+  padding-right: 0.5em;
+  color: #ff4500;
+  text-shadow: #ff4500;
 }
 
 aside div.expanded {
-	display: block
+	display: block;
+	color: #fff;
 }

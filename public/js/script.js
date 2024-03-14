@@ -34,6 +34,7 @@
 		h3.onclick = function() {
 			const div = this.nextSibling.nextSibling;
 			div.className = div.className === 'expanded' ? '' : 'expanded';
+			h3.className = h3.className === 'expanded' ? '' : 'expanded';
 		};
 	}
 })();
