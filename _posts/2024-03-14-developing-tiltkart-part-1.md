@@ -43,7 +43,7 @@ During research on general Unity workflows, I had stumbled across the idea of [E
 <br />
 <aside><h3>Recommendation for learning Events and Actions</h3>
 <div>
-   <p>Personally, the site I found the easiest to understand for learning to implement Events and Actions was [https://gamedevbeginner.com/events-and-delegates-in-unity/#actions](https://gamedevbeginner.com/events-and-delegates-in-unity/#actions)</p>
+   <p>Personally, the site I found the easiest to understand for learning to implement Events and Actions was <a href="https://gamedevbeginner.com/events-and-delegates-in-unity/">https://gamedevbeginner.com/events-and-delegates-in-unity/</a></p>
 </div>
 </aside>
 
